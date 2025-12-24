@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Silicon Savannah's Hidden Engine: The Rise of Open Source in Kenya"
-author: "Amos Wasike"
+author: amos  <-- CHANGE THIS FROM "Amos Wasike" to "amos"
 categories: [Tech, Business]
 image: assets/images/kenya-tech.jpg
 featured: true
